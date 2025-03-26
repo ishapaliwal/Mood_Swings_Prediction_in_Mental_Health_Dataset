@@ -55,7 +55,7 @@ Mood swings are a core symptom of several mental health conditions like **bipola
 - Validated with unseen test data
 
 You can view the project results in the following formats:
-- Jupyter Notebook (in the `notebooks/` directory) – includes data exploration, model training, and evaluation
+- [Jupyter Notebook](https://github.com/ishapaliwal/Mood_Swings_Prediction_in_Mental_Health_Dataset/blob/master/Notebooks/Final%20Project%20Submission_Paliwal_Isha.ipynb) (in the `notebooks/` directory) – includes data exploration, model training, and evaluation
 - Project Presentation – [Mood Swings Prediction Project Presentation (PPTX)](https://github.com/ishapaliwal/Mood_Swings_Prediction_in_Mental_Health_Dataset/blob/master/Mood%20Swings%20Prediction%20Project%20Presentation.pptx)
 
 ---
